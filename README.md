@@ -1,1 +1,1 @@
-## Theoretical physicist and computational scientist specialising in quantum many-body systems, non-equilibrium dynamics, open quantum systems, quantum information, and quantum computing. Experienced in Python, Julia, FORTRAN, and high-performance computing.
+## Theoretical physicist and computational scientist specialising in quantum many-body systems, non-equilibrium dynamics, open quantum systems, quantum information, and quantum computing.
